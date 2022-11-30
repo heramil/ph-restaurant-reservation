@@ -1,4 +1,5 @@
 ##Description
+
  * List Reservations
  * List reservations by date
  * Show status of reservation (e.g. "booked" or "cancelled")
@@ -6,7 +7,9 @@
  * Restaurant time constraints for each reservation (e.g "restaurant is closed on Tuesday's")
  * Modify existing reservation
  * Search reservations
+ 
 ##Technologies
+
  * React
  * React hooks
  * React router
@@ -18,7 +21,9 @@
  * HTML
  * JavaScript
  * RESTful APIs
+ 
 ##Installation
+
 * Fork and clone this repository.
 * Run cp ./back-end/.env.sample ./back-end/.env.
 * Update the ./back-end/.env file with the connection URL's to your database instances.
