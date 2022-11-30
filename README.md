@@ -1,6 +1,6 @@
 ## Link
 
-https://ph-restaurant-frontend.onrender.com/dashboard
+https://ph-restaurant-frontend.onrender.com
 
 ## Description
 
