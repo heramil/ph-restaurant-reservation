@@ -1,3 +1,7 @@
+# Restaurant Reservation App
+
+![restaurant](https://user-images.githubusercontent.com/104443594/204724088-63ed48a2-48a2-48cb-95d5-6270df4c0224.png)
+
 ## Link
 
 https://ph-restaurant-frontend.onrender.com
