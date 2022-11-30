@@ -1,4 +1,4 @@
-##Description
+## Description
 
  * List Reservations
  * List reservations by date
@@ -8,7 +8,7 @@
  * Modify existing reservation
  * Search reservations
  
-##Technologies
+## Technologies
 
  * React
  * React hooks
@@ -22,7 +22,7 @@
  * JavaScript
  * RESTful APIs
  
-##Installation
+## Installation
 
 * Fork and clone this repository.
 * Run cp ./back-end/.env.sample ./back-end/.env.
